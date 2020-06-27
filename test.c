@@ -3,4 +3,5 @@
 main()
 {
   printf("nullpo\n");
+  printf("guts\n");
 }
